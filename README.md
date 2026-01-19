@@ -29,5 +29,3 @@ This project performs complete **CRUD operations** for Hotels, Rooms, and Bookin
 - **REST API**
 
 
-## 📂 Project Structure
-
